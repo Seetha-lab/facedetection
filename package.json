@@ -1,5 +1,5 @@
 {
-  "name": "facedetection",
+  "name": "simple-face-detection",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
