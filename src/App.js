@@ -9,9 +9,6 @@ import FaceDetection from './components/FaceDetection/FaceDetection';
 import FaceDetectionFunctionality from './components/FaceDetectionFunctionality/FaceDetectionFunctionality';
 import Rank from './components/Rank/Rank';
 
-
-
-
 const particleoptions = {
          particles: {
           number: {
