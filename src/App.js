@@ -130,7 +130,7 @@ class App extends Component {
 
    changepage = (onpage) => {
 
-    if(onpage === "signin") {
+    if(onpage === "signin" || onpage === "signout") {
       this.setState(initialstate);
     }
      
